@@ -1,4 +1,7 @@
-[](https://github.com/SazzzNiziyan/note-taking/blob/3aabf1e6db53ac1eed4d0f714accabdd275429a0/download.jpeg)
+
+
+![image](https://github.com/SazzzNiziyan/note-taking/blob/142ad80523def3b49e4aa39720aa9155c6239490/hello.png)
+
 # Note-Taking Website Backend
 
 Welcome to the backend of my Note-Taking website!
